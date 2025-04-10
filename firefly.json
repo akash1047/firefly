@@ -8,6 +8,7 @@
 
     "target-c-int-width": "32",
     "os": "none",
+
     "executables": true,
     "linker-flavor": "ld.lld",
     "linker": "rust-lld",
